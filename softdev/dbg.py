@@ -8,7 +8,7 @@ khaz
 """
 
 from softdev.m_iters import flatten
-from khutils import printhead
+from m_utils.printing import printhead
 from sys import stdin
 
 mdChar = chr(0x00b7)  # middle dot
